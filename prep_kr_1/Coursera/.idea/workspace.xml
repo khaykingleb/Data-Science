@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="322a4191-5b52-4bf0-b7d4-6ca59fea2b63" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yq8ebugJ2Ft9DCN9CsAkN44HZA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Week 9" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week 9" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.task_f">
+    <configuration name="not_my" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coursera" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 9/not_my.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_c" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coursera" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 9/task_c.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_c_copy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coursera" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 9/task_c_copy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_d_my" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coursera" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 9/task_d_my.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_f" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coursera" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 9/task_f.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.task_f" />
+        <item itemvalue="Python.not_my" />
+        <item itemvalue="Python.task_c_copy" />
+        <item itemvalue="Python.task_c" />
+        <item itemvalue="Python.task_d_my" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="322a4191-5b52-4bf0-b7d4-6ca59fea2b63" name="Default Changelist" comment="" />
+      <created>1583658859844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583658859844</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586357809881">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1586357809881" />
+    <state x="415" y="76" key="#complex" timestamp="1583661253588">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="415" y="76" key="#complex/0.0.1440.900@0.0.1440.900" timestamp="1583661253588" />
+    <state x="415" y="76" key="#general" timestamp="1583661236573">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="415" y="76" key="#general/0.0.1440.900@0.0.1440.900" timestamp="1583661236573" />
+    <state width="1398" height="235" key="GridCell.Tab.0.bottom" timestamp="1586623510684">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="235" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586623510684" />
+    <state width="1398" height="235" key="GridCell.Tab.0.center" timestamp="1586623510683">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="235" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586623510683" />
+    <state width="1398" height="235" key="GridCell.Tab.0.left" timestamp="1586623510683">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="235" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586623510683" />
+    <state width="1398" height="235" key="GridCell.Tab.0.right" timestamp="1586623510684">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="235" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586623510684" />
+    <state width="1398" height="235" key="GridCell.Tab.1.bottom" timestamp="1586623510686">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="235" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586623510686" />
+    <state width="1398" height="235" key="GridCell.Tab.1.center" timestamp="1586623510685">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="235" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1586623510685" />
+    <state width="1398" height="235" key="GridCell.Tab.1.left" timestamp="1586623510685">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="235" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1586623510685" />
+    <state width="1398" height="235" key="GridCell.Tab.1.right" timestamp="1586623510686">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="235" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1586623510686" />
+    <state x="175" y="17" key="SettingsEditor" timestamp="1586355036938">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="175" y="17" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1586355036938" />
+    <state x="397" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1586622706060">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="237" key="com.intellij.ide.util.TipDialog/0.0.1440.820@0.0.1440.820" timestamp="1586512051274" />
+    <state x="397" y="260" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1586622706060" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1586358196239">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1586358196239" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Week 9/matrix.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Week 6/test_7.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Week 9/task_f.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
